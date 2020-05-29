@@ -1,1 +1,1 @@
-Data has been deleted due to the confidentiality agreement. Other case data is easy to find on the web, the source code of SOCP and LP please visit: https://github.com/hlx17/Source-code-of-SOCP-and-LP
+Data has been deleted due to the confidentiality agreement. Other case data is easy to find on the web.
